@@ -205,7 +205,8 @@ background: linear-gradient(0deg, rgba(122,141,155,1) 0%, rgb(212, 178, 168) 100
   text-align: left;
   display: block;
   position: relative;
-  width: 90%;
+  width: 50%;
+
   margin: var(--r-block-margin) auto;
   text-align: left;
   font-size: 0.55em;
